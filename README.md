@@ -1,6 +1,6 @@
-# iPhone 12 Pro Max 📱 Made By `HTML`, `CSS` & `JavaScript` ! 
+# iPhone 12 Pro Max clone Made By `HTML`, `CSS` & `JavaScript` ! 
 
-# Hello there! 👋
+# Hello All! 👋
 
 I have created a [**Black color iPhone 12 Pro Max**](https://i-phone-12-shjz.vercel.app/) built with `HTML`, `CSS`, and some `JavaScript` !
 
